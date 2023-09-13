@@ -1,0 +1,4 @@
+# This file is needed for empty directories to be added to git
+# It can be deleted once downloaded
+*
+!.gitignore
