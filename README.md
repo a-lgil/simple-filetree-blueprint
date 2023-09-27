@@ -1,3 +1,4 @@
+<pre>
 └── **home**/  
     ├── **documents**/  
     │   ├── **education**/  
@@ -41,4 +42,4 @@
         │   ├── **system_tools**/  
         │   └── **video_editing**/  
         └── **installers**/  
-  
+<pre>
