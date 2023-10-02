@@ -1,6 +1,5 @@
 <div align="center">
   <p>
-    <img height="110" src="assets\simple_file_tree_icon_final.svg">
     <img height="110" src="assets\simple_file_tree_icon_final_final.svg">
     <h1>Simple Filetree Blueprint 📂</h1>
     A simple filetree blueprint to help you quickly and efficiently organize your digital workspace.
