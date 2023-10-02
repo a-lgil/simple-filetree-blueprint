@@ -5,8 +5,6 @@
     A simple filetree blueprint to help you quickly and efficiently organize your digital workspace.
   </p>
 
-< [English](README.md) | [Español](README.es.md) >
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
