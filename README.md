@@ -1,11 +1,11 @@
 <div align="center">
   <p>
-    <img height="110" src="assets\simple_file_tree_icon_final_final.svg">
-    <h1>Simple Filetree Blueprint 📂</h1>
+    <img height="128" src="assets\simple_file_tree_icon_final_final.svg">
+    <h1>Simple Filetree Blueprint</h1>
     A simple filetree blueprint to help you quickly and efficiently organize your digital workspace.
   </p>
 
-<[English](README.md) | [Español](README.es.md)>
+< [English](README.md) | [Español](README.es.md) >
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -64,7 +64,7 @@
 - Avoid the chaos of disordered and duplicate folders that eventually happens to everyone.
 - The snake_case convention is consistent, clear and maximizes compatibility.
 
-**[Download the Filetree Blueprint](path_to_your_zip_file.zip)**
+**[Download the Filetree Blueprint](https://github.com/Qwernasivob/simple-filetree-blueprint/releases/download/v1.0/home.zip)**
 
 This is simply a guideline based on a balanced structure I personally find effective. Feel free to modify the structure to suit your needs. For example:
 - Add "music/" under "projects/" if you're a producer.
@@ -85,7 +85,7 @@ Based on my personal preferences and experience, I've listed some essential soft
 - **multimedia/**: [VLC Media Player 🔓](https://www.videolan.org/vlc/index.es.html) (versatile, plays essentially anything), [mpv 🔓](https://mpv.io/) (extremely good for HDR content and other content that might require wacky video drivers. If VLC can't play it, this will)
 - **system_tools/**: [PowerToys 🔓](https://github.com/microsoft/PowerToys/releases) (lots of different tools, check the list [here](https://learn.microsoft.com/en-us/windows/powertoys/))
 
-🔓 - Open Source
+🔓 - Open Source  
 🆓 - Freeware
 
 While these are my go-to choices and are primarily for Windows (though many are available for other operating systems, [AlternativeTo](https://alternativeto.net/) can help), I encourage you to explore and find what best suits your needs.
